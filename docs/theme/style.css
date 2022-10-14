@@ -6,3 +6,8 @@ body {
   background-color: rgb(32, 33, 36);
   color: #ffffff;
 }
+
+p {
+  font-size: 2rem;
+  line-height: 1.5em;
+}
